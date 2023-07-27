@@ -1,0 +1,31 @@
+*{
+    font-family: 'Tektur', cursive;
+}
+
+.tektur{
+    font-family: 'Tektur', cursive;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 14px;
+}
+
+
+
+.r{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: 	#888888;
+}
+
+
+.footer{
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Tektur', cursive;
+    color: white;
+}
